@@ -14,8 +14,23 @@
   💻 What I Do: Build clean, responsive websites using tools like Next.js and SCSS <br>
   📘 What I'm Learning: How to make sites faster, work better with APIs, and handle large amounts of content <br>
   🎯 My Goal: Create websites that are easy to use, well-built behind the scenes, and meaningful with relation to my interests<br>
-  🔧 Cool Project: <a href="https://github.com/alanzhang03/topflight-tracker" target="_blank" rel="noopener noreferrer">Topflight Tracker</a>, tracking the stats from the top soccer leagues.
 </p>
+
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+- ⚽️ **[Topflight Tracker](https://github.com/alanzhang03/topflight-tracker)**  
+  A football league tracker that displays live standings, fixtures, and results for the Premier League, Bundesliga, La Liga, and more.  
+  Built with **Next.js**, **Redis caching**, **external football APIs**, and custom SCSS styling for performance and flexibility.
+
+- 🧠 **[Streamer Tracker TFT](https://github.com/alanzhang03/streamer-tracker-tft)**  
+  A web app that monitors top Teamfight Tactics Twitch streamers and displays their latest comps, augments, and performance stats.  
+  Uses **Next.js**, **Twitch API**, and modular components to present up-to-date gameplay data in a clean UI.
+
 
 ###
 
@@ -41,7 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-### 📬 Connect With Me
+###
+
+<h2 align="left">📬 Connect With Me</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/azhang03/" target="_blank" rel="noopener noreferrer">
