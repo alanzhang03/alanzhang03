@@ -29,7 +29,7 @@
 
 - 🧠 **[Streamer Tracker TFT](https://github.com/alanzhang03/streamer-tracker-tft)**  
   A web app that monitors top Teamfight Tactics Twitch streamers and displays their latest comps, augments, and performance stats.  
-  Uses **Next.js**, **Twitch API**, and modular components to present up-to-date gameplay data in a clean UI.
+  Uses **Next.js**, **Flask**,**Mongo Db**, and modular components to present up-to-date gameplay data in a clean UI.
 
 
 ###
