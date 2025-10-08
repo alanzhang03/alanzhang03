@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  💻 What I Do: Build clean, responsive websites using tools like Next.js and SCSS <br>
-  📘 What I'm Learning: How to make sites faster, work better with APIs, and handle large amounts of content <br>
-  🎯 My Goal: Create websites that are easy to use, well-built behind the scenes, and meaningful with relation to my interests<br>
+  What I Do: Build websites using tools like Next.js and SCSS <br>
+  What I'm Learning: How to make sites faster, work better with APIs, and handle large amounts of content <br>
+  My Goal: Create websites that are easy to use, well-built behind the scenes, and meaningful with relation to my interests<br>
 </p>
 
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">🚀 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
