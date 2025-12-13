@@ -80,10 +80,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/alanzhang03/alanzhang03/output/snake.svg" alt="Snake animation" />
-
-###
-
 
