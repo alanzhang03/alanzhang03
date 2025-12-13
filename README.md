@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alan and I'm a Software Engineer from Philadelphia, PA, currently working @<a href="https://www.tollbrothers.com/" target="_blank" rel="noopener noreferrer">Toll Brothers</a></p>
+<p align="left">I'm Alan and I'm a Software Engineer from Philadelphia, PA, currently working @<a href="https://www.tollbrothers.com/" target="_blank" rel="noopener noreferrer">Toll Brothers</a></p>
 
 ###
 
@@ -15,21 +15,6 @@
   What I'm Learning: How to make sites faster, work better with APIs, and handle large amounts of content <br>
   My Goal: Create websites that are easy to use, well-built behind the scenes, and meaningful with relation to my interests<br>
 </p>
-
-
-###
-
-<h2 align="left">🛠️ Featured Projects</h2>
-
-###
-
-- ⚽️ **[Topflight Tracker](https://github.com/alanzhang03/topflight-tracker)**  
-  A football league tracker that displays live standings, fixtures, and results for the Premier League, Bundesliga, La Liga, and more.  
-  Built with **Next.js**, **Redis caching**, **external football APIs**, and custom SCSS styling for performance and flexibility.
-
-- 🧠 **[Streamer Tracker TFT](https://github.com/alanzhang03/streamer-tracker-tft)**  
-  A web app that monitors top Teamfight Tactics Twitch streamers and displays their latest comps, augments, and performance stats.  
-  Uses **Next.js**, **Flask**,**Mongo Db**, and modular components to present up-to-date gameplay data in a clean UI.
 
 
 ###
