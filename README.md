@@ -4,12 +4,6 @@
 
 <p align="left">I'm Alan and I'm a Software Engineer from Philadelphia, PA, currently working @<a href="https://www.tollbrothers.com/" target="_blank" rel="noopener noreferrer">Toll Brothers</a></p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 
 ###
 
